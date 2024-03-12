@@ -15,7 +15,7 @@
 
 # 📢 Contato 📢 
 - Email: enzoeferreira@gmail.com
-- Discord: enzo haduken#1649
+- Discord: @enzohaduken
 
 <hr>
 
